@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.foodninja_pwa.twa",
+                   "sha256_cert_fingerprints": ["BC:BD:5B:FA:92:F8:DC:0E:E1:92:9D:BB:13:84:48:94:1A:7E:BD:88:0E:2C:AB:56:04:C6:2E:D2:95:4C:46:88"] }
+    }]
