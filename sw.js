@@ -1,4 +1,4 @@
-const staticCache = 'site-static-v20' 
+const staticCache = 'site-static-v21' 
 const dynamicCache = 'site-dynamic-v3'
 
 // App shell assets
